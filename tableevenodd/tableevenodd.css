@@ -1,0 +1,12 @@
+th{
+    background-color: rgb(87, 86, 86);
+    color: white;
+    border: 1px solid black;
+}
+.changeingrey{
+    background-color: lightsteelblue;
+   
+}
+td{
+    border: 1px solid black;
+}
